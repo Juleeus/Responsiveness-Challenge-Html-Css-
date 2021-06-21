@@ -1,2 +1,2 @@
-# Responsiveness-Challenge-Html-Css-
+# Responsiveness-Challenge-Html-Css
 Challenge 2 apna college
